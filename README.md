@@ -1,5 +1,5 @@
 # WeatherApp
-A console weather application that allows you to enter in a city name and get the 5 day forecast as a result.
+A console weather application that using the AccuWeather API. Allows you to enter in a city name and get the 5 day forecast as a result.
 
 ## Project Screenshots:
 In order to use this program, a key is needed from AccuWeather. For convenience and better understanding of the program, here are screenshots of how it works.
